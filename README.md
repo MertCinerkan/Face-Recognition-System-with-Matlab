@@ -60,7 +60,7 @@ Contributions are welcome! Feel free to fork this repository, submit issues, or 
 ## Acknowledgements
 - MATLAB's Computer Vision and Deep Learning Toolboxes
 - AlexNet Pre-trained Model
-- 
+
 ---
 
 Developed by **Mert Çinerkan**.
